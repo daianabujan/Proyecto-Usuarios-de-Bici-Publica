@@ -26,4 +26,5 @@ Para el análisis se extrajo de la base general solo 570 filas, a fin de tener u
 <br /> 
 Dicho proyecto puede ser utilizado para otros medios de transporte e incorporando herramientas de geolocalización para poder posicionarlos dentro del territorio.
 
+<br /> 
 Autora: Daiana Bujan - daiana.bujan@gmail.com 
