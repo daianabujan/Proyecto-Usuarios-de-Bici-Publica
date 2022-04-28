@@ -9,16 +9,16 @@ Análizar la cantidad de usuarios que utilizaron las bicicletas públicas dentro
 
 **Datos:**
 Se utilizaron datos de entrada de DATOS ABIERTOS -  GCBA Link: https://data.buenosaires.gob.ar/dataset/bicicletas-publicas (no incluidos dentro del repositorio).         
-Para el análisis se extrajo de la base general solo 570 filas, a fin de tener una muestra piloto del funcionamiento, ya que la base original posee aprox 2.600 millones de filas
+Para el análisis se extrajo de la base general solo 570 filas, a fin de tener una muestra piloto del funcionamiento, ya que la base original posee aprox 2.600 millones de filas.
 
 
 **Metodología**
 - Se utilizo LEN para contabilizar el total de filas dentro del archivo (ya que cada fila representa el recorrido de un usuario).                                         
 - Se realizó una variable contenedora de los ORIGENES y otra de DESTINOS (ambas con duplicados).                                                                         
   - La metodología aplicada se fundó en la utilización de listas - tuplas, para obtener valores únicos de las variables generadas contabilizando su cantidad de repeticiones.
-  - Se generó una nueva variable de almacemiento y orden, buscando poder determinar cuales son los TOP 5 de estaciones más utilizadas
+  - Se generó una nueva variable de almacemiento y orden, buscando poder determinar cuales son los TOP 5 de estaciones más utilizadas.
  
-**Potencialidad**
+**Potencialidad:**
 Dicho proyecto puede ser utilizado para otros medios de transporte e incorporando herramientas de geolocalización para poder posicionarlos dentro del territorio.
 
-Autor: Daiana Bujan
+Autora: Daiana Bujan - daiana.bujan@gmail.com 
