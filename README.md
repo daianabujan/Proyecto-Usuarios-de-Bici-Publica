@@ -7,6 +7,11 @@ Análizar la cantidad de usuarios que utilizaron las bicicletas públicas dentro
 
 **Datos:**
 Se utilizaron datos de entrada de DATOS ABIERTOS -  GCBA Link: https://data.buenosaires.gob.ar/dataset/bicicletas-publicas (no incluidos dentro del repositorio)
+Para el análisis se extrajo de la base general solo 570 filas, a fin de tener una muestra piloto del funcionamiento, ya que la base original posee aprox 2.600 millones de filas
+
+**IMPORTANTE:**
+Dado que el tamaño de los datos supera la capacidad de 100mb, no fue posible subirlo al repositorio de manera integral. Por lo que podrá descargase del siguiente link:
+
 
 **Metodología**
 - Se utilizo LEN para contabilizar el total de filas dentro del archivo (ya que cada fila representa el recorrido de un usuario)
