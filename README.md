@@ -19,7 +19,7 @@ Para el análisis se extrajo de la base general solo 570 filas, a fin de tener u
 - Se utilizo LEN para contabilizar el total de filas dentro del archivo (ya que cada fila representa el recorrido de un usuario).                                         
 - Se realizó una variable contenedora de los ORIGENES y otra de DESTINOS (ambas con duplicados).                                                                         
   - La metodología aplicada se fundó en la utilización de listas - tuplas, para obtener valores únicos de las variables generadas contabilizando su cantidad de repeticiones.
-  - Se generó una nueva variable de almacemiento y orden, buscando poder determinar cuales son los TOP 5 de estaciones más utilizadas.
+  - Se generó una nueva variable de almacenamiento y orden, buscando poder determinar cuales son los TOP 5 de estaciones más utilizadas.
 <br /> 
  
 **Potencialidad:** <br />
